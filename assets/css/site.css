@@ -1,4 +1,8 @@
 body {
+  background: rgb(14, 14, 14);
+  background-size: auto;
+  background-repeat: no-repeat;
+  color: #e1e1e1;
   text-align: center;
 }
 
